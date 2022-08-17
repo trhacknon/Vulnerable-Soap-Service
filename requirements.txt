@@ -1,0 +1,3 @@
+spyne
+suds
+pickle

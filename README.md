@@ -1,6 +1,8 @@
 # Vulnerable-Soap-Service
 Erlik - Vulnerable Soap Service
 
+Tested - Kali 2022.1
+
 ## Description
 
 It is a vulnerable SOAP web service. It is a lab environment created for people who want to improve themselves in the field of web penetration testing.
@@ -20,8 +22,6 @@ It contains the following vulnerabilities.
 -Brute Force
 
 -Deserialization
-
-Tested - Kali 2022.1
 
 ## Installation
 git clone https://github.com/anil-yelken/Vulnerable-Soap-Service

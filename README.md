@@ -1,17 +1,42 @@
 # Vulnerable-Soap-Service
 Erlik - Vulnerable Soap Service
 
+## Description
+
+It is a vulnerable SOAP web service. It is a lab environment created for people who want to improve themselves in the field of web penetration testing.
+
+## Features
+
+It contains the following vulnerabilities.
+
+-LFI
+
+-SQL Injection
+
+-Informaion Disclosure
+
+-Command Inejction
+
+-Brute Force
+
+-Deserialization
+
 Tested - Kali 2022.1
 
 ## Installation
+git clone https://github.com/anil-yelken/Vulnerable-Soap-Service
+
+cd Vulnerable-Soap-Service
 
 sudo pip3 install requirements.txt
+
+## Usage
 
 sudo python3 vulnerable_soap.py
 
 <img src="https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/server.jpg">
 
-## Vulnerabilities
+## Exploiting Vulnerabilities
 
 ### LFI
 
